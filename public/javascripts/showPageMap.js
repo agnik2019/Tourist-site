@@ -3,7 +3,7 @@ const map = new mapboxgl.Map({
     container: 'map',
     style: 'mapbox://styles/mapbox/light-v10', // stylesheet location
     //center: campground.geometry.coordinates, // starting position [lng, lat]
-    center: [-74.5,40],
+    center: [90.4125,23.8103],
     zoom: 10 // starting zoom
 });
 
